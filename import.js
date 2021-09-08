@@ -1,4 +1,4 @@
-
+import { msg } from "./export";
 
 
 const bye = 'bye'
