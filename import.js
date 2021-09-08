@@ -1,5 +1,6 @@
-import hello from './test'
 
 
-const msg = hello
+
+const bye = 'bye'
 console.log(msg)
+console.log(bye)
